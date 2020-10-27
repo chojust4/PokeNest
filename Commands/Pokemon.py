@@ -346,7 +346,7 @@ class Pokemon(commands.Cog):
     '''
     FUTURE IDEAS:
     MINI-GAMES:
-        Fishing - Users can catch pokemon by playing pokemon
+        Fishing - Users can catch pokemon by playing hangman
         Berry Blender - Users collect berries and can blend them to catch a special pokemon
     '''
 
