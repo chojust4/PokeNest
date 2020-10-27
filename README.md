@@ -23,6 +23,8 @@ git clone https://github.com/chojust4/PokeNest.git
 **General**
 - !pcatch
 - !premove
+- !mypokedex
+- !pokedex
 
 **Trade**
 - !pselect
