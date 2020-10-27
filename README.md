@@ -20,12 +20,9 @@ git clone https://github.com/chojust4/PokeNest.git
 - !pstart
 - !ppick 
 
-<br/>
-
 **General**
 - !pcatch
 - !premove
-<br/>
 
 **Trade**
 - !pselect
