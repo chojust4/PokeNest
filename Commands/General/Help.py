@@ -6,7 +6,6 @@ from discord.ext import commands
 class Greetings(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
-        self._last_member = None
 
     # Welcomes user into the server
     @commands.Cog.listener()
