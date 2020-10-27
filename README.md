@@ -11,14 +11,17 @@ git clone https://github.com/chojust4/PokeNest.git
 - specify your intents; by default this application needs all priviledged gateway intents available
 - make sure to specify your GUILD_ID and CHANNEL_ID in the file and your bot should be ready to go!
 
+<hr>
 ### Commands
 **Getting Started**
 - !phelp
 - !pstart
 - !ppick 
+<br>
 **General**
 - !pcatch
 - !premove
+<br>
 **Trade**
 - !pselect
 - !ptrade
