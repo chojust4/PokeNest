@@ -1,5 +1,5 @@
 # PokeNest
-PokeNest is a Discord bot that allows you to catch and trade Pokemon with friends! [Full Demo](https://www.youtube.com/watch?v=d8lWpJGphdc&t=1s&ab_channel=RockyINACTIVE)
+PokeNest is a Discord bot that allows you to catch and trade Pokemon with friends! [Demo](https://www.youtube.com/watch?v=d8lWpJGphdc&t=1s&ab_channel=RockyINACTIVE)
 
 ![](https://github.com/chojust4/files/blob/main/ezgif.com-gif-maker%20(1).gif)
 
