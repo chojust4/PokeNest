@@ -18,15 +18,15 @@ git clone https://github.com/chojust4/PokeNest.git
 **Getting Started**
 - !phelp
 - !pstart 
-- !ppick <pokemon-name>
+- !ppick [pokemon-name]
 
 **General**
-- !pcatch <pokemon-name>
-- !premove <pokemon-name>
+- !pcatch [pokemon-name]
+- !premove [pokemon-name]
 - !mypokedex 
-- !pokedex <pokemon-name>
+- !pokedex [pokemon-name]
 
 **Trade**
-- !pselect <pokemon-name>
-- !ptrade <user#discrim> <pokemon-name>
+- !pselect [pokemon-name]
+- !ptrade [user#discrim] [pokemon-name]
 - !paccept 
