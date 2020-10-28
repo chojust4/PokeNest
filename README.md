@@ -1,5 +1,5 @@
 # PokeNest
-Play Pokemon in your discord server! [Demo](https://www.youtube.com/watch?v=d8lWpJGphdc&t=1s&ab_channel=RockyINACTIVE)
+PokeNest is a Discord bot that allows you to catch and trade Pokemon with friends! [Demo](https://www.youtube.com/watch?v=d8lWpJGphdc&t=1s&ab_channel=RockyINACTIVE)
 
 ### Getting Started
 1. Clone the repo
