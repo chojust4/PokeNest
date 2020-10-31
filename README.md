@@ -9,7 +9,7 @@ PokeNest is a Discord bot that allows you to catch and trade Pokemon with friend
 ```
 git clone https://github.com/chojust4/PokeNest.git
 ```
-2. Create an application in discord developer portal
+2. Create an application in Discord developer portal
 > - add a bot to your application and add this bot to your server
 > - retrieve your bot access token
 > - specify your intents; by default this application needs all priviledged gateway intents available
